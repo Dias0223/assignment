@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.Net Projects\\employee-app-back-end\\employee-app-back-end\\employee-app-back-end.csproj": {}
+    "D:\\Assignment\\assignment\\employee-app-back-end\\employee-app-back-end\\employee-app-back-end.csproj": {}
   },
   "projects": {
-    "D:\\ASP.Net Projects\\employee-app-back-end\\employee-app-back-end\\employee-app-back-end.csproj": {
+    "D:\\Assignment\\assignment\\employee-app-back-end\\employee-app-back-end\\employee-app-back-end.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.Net Projects\\employee-app-back-end\\employee-app-back-end\\employee-app-back-end.csproj",
+        "projectUniqueName": "D:\\Assignment\\assignment\\employee-app-back-end\\employee-app-back-end\\employee-app-back-end.csproj",
         "projectName": "employee-app-back-end",
-        "projectPath": "D:\\ASP.Net Projects\\employee-app-back-end\\employee-app-back-end\\employee-app-back-end.csproj",
+        "projectPath": "D:\\Assignment\\assignment\\employee-app-back-end\\employee-app-back-end\\employee-app-back-end.csproj",
         "packagesPath": "C:\\Users\\DIAS-PC\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.Net Projects\\employee-app-back-end\\employee-app-back-end\\obj\\",
+        "outputPath": "D:\\Assignment\\assignment\\employee-app-back-end\\employee-app-back-end\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
