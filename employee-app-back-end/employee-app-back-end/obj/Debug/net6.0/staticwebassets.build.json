@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8xk+sXZBZGTUAChjxOQwcHxzWFOIGgzRGXfcTpCdRHk=",
+  "Source": "employee-app-back-end",
+  "BasePath": "_content/employee-app-back-end",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
